@@ -181,10 +181,68 @@ Database should contain the following four models, including the requirements li
 
 ## 🔦 Associations
 
+---
+
 You need to execute association methods on your Sequelize models to create the following relationships between them:
 
 - `Product` belongs to `Category`, and `Category` has many `Product` models, as a category can have multiple products but a product can only belong to one category.
 
 - `Product` belongs to many `Tag` models, and `Tag` belongs to many `Product` models. Allow products to have multiple tags and tags to have many products by using the `ProductTag` through model.
+
+---
+
+## Fill Out the API Routes to Perform RESTful CRUD Operations
+
+Fill out the unfinished routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform create, read, update, and delete operations using Sequelize models.
+
+---
+
+## Sync Sequelize to the Database on Server Start
+
+Create the code needed in `server.js` to sync the Sequelize models to the MySQL database on server start.
+
+---
+
+## 💾 Installation & Usage
+
+---
+
+To install this application, clone the repository to your local directory by visiting following link:
+
+- https://github.com/Amit-Ranjan22/E-Commerce_Back-End.git
+
+Once downloaded, you can install its dependencies by navigating to the E-Commerce_Back-End directory on your local machine and issuing the following command:
+
+- npm install
+
+This command will install the following dependencies:
+
+- dotenv
+- express
+- mysql2
+- sequelize
+
+from your terminal, log into mysql by using
+
+- mysql -u root -p
+
+and enter your password for mysql.
+Once you are logged in to your mysql, run the schema by using
+
+- source db/schema.sql;
+
+Once you run the schema, come out of mysql by using
+
+- exit
+
+Now, from your terminal run your seed file by using
+
+- npm run seed
+
+After seeding your database run your server.js file by using
+
+- node server.js
+
+And now, you can use Insomnia to use the different apis for get, post, put or delete request.
 
 ---
