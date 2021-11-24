@@ -257,7 +257,7 @@ There are no test used for this application.
 
 ---
 
-## 🖼️ Mock-Up
+## 🖼️ Gif Of Walk-through Video For The App Tested in Insomnia Core
 
 ---
 
