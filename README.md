@@ -257,11 +257,19 @@ There are no test used for this application.
 
 ---
 
+## 🖼️ Mock-Up
+
+---
+
+The following animation shows the application's all the GET,POST,UPDATE & DELETE routes to return for Products, Categories and Tags being tested in Insomnia Core:
+
+![In Insomnia Core, the user tests all the routes for products, categories & tags.](./Assets/Ecomm-Backend-Gif.gif)
+
 ## 🔌 Link to the video walk-through of the application
 
 ---
 
-- Google-Drive Link: [E-Commerce_Back-End]()
+- Google-Drive Link: [E-Commerce_Back-End](https://drive.google.com/file/d/1UEc5hvQAAuxqyTGxzqnkcdtRAW_BElTD/view)
 
 ---
 
