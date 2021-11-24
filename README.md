@@ -191,9 +191,9 @@ You need to execute association methods on your Sequelize models to create the f
 
 ---
 
-## Fill Out the API Routes to Perform RESTful CRUD Operations
+## Write the API Routes to Perform RESTful CRUD Operations
 
-Fill out the unfinished routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform create, read, update, and delete operations using Sequelize models.
+Write all the necessary routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform create, read, update, and delete operations using Sequelize models.
 
 ---
 
