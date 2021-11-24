@@ -246,3 +246,52 @@ After seeding your database run your server.js file by using
 And now, you can use Insomnia to use the different apis for get, post, put or delete request.
 
 ---
+
+## 🧪 Tests
+
+---
+
+```
+There are no test used for this application.
+```
+
+---
+
+## 🔌 Link to the video walk-through of the application
+
+---
+
+- Google-Drive Link: [E-Commerce_Back-End]()
+
+---
+
+## 🔌 Link to the Git-Hub repository
+
+---
+
+- GitHub Link: [
+  E-Commerce_Back-End](https://github.com/Amit-Ranjan22/E-Commerce_Back-End.git)
+
+---
+
+<h2 id='contribution'>🧑‍🤝‍🧑 Contribution</h2>
+
+    Amitabh Ranjan
+
+---
+
+<h2 id='questions'>❓ Questions</h2>
+
+<h3>For any question you can reach me at:</h3>
+
+---
+
+<h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>Amit-Ranjan22</a></h3>
+
+<h3>📩 Email: <a href='https://mail.google.com/'>amitabh.march22@gmail</a></h3>
+
+---
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](License-Copyright/LICENSE).
